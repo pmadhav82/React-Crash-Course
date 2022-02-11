@@ -1,0 +1,19 @@
+.containers{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  
+}
+.item{
+    height: 200px, auto;
+    width: 200px,auto;
+    border: 2px solid red;
+    padding: 10px;
+}
+button{
+    padding: 5px;
+    margin: 5px;
+    background-color: rgb(91, 20, 173);
+    cursor: pointer;
+    color: wheat;
+}
